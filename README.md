@@ -1,1 +1,1 @@
-# Visual representation of my reseme
+# Visual interactive of my resume
