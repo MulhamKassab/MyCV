@@ -2804,7 +2804,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 762939614}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.12, y: 11.1, z: -3.143}
+  m_LocalPosition: {x: 4.12, y: 11.272, z: -3.143}
   m_LocalScale: {x: 1, y: 1, z: 2.268}
   m_Children: []
   m_Father: {fileID: 640505388}
@@ -24367,8 +24367,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: before Ecomundo I used to work for a Slovakian company called Techno Aviation
-    it's a company expert at airport automation mechanical and electrical systems
-    and refurbishment for used machines
+    it's a company expert at airport automation, mechanical and electrical systems,
+    and refurbishment for used machines.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -30871,7 +30871,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This room Is full of secrets
+  m_text: This room is full of secrets
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -33749,7 +33749,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'With TechnoAviation I used to troubleshoot and maintain the
+  m_text: 'With Techno Aviation I used to troubleshoot and maintain the
 
     company''s
     system and monitor the company purchases.
@@ -60946,10 +60946,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'I graduated from the Damascus University with a Bachelor''s
+  m_text: 'I graduated from Damascus University with a Bachelor''s
 
-    degree
-    in computer and automation engineering'
+    degree in
+    Computer and Automation Engineering'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
