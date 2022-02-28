@@ -1,1 +1,1 @@
-# ÷nteractive representation of my resume
+# Interactive representation of my resume
